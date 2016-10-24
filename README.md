@@ -14,7 +14,9 @@ Assignment Requirements
 The REST API for our Angular and Ionic/Cordova application that we built in the previous courses requires us to support the following REST API end points:
 
 <http://localhost:3000/dishes>
+
 <http://localhost:3000/promotions>
+
 <http://localhost:3000/leadership>
 
 We need to support GET, PUT, POST and DELETE operations on each of the three endpoints mentioned above, including supporting the use of route parameters to identify a specific dish, promotion and leader. We have already constructed the REST API for the dishes route in the previous exercise.
